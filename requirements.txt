@@ -1,0 +1,10 @@
+pymupdf
+pdfplumber
+pytesseract
+pillow
+rapidfuzz
+openpyxl
+
+pandas
+python-docx
+pdf2image
